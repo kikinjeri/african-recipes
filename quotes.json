@@ -1,0 +1,176 @@
+[
+  {
+    "quote": "Wisdom is like fire. People take it from others.",
+    "country": "Ghana",
+    "recipe": {
+      "name": "Jollof Rice",
+      "ingredients": [
+        "2 cups rice",
+        "1 onion, chopped",
+        "2 tomatoes, blended",
+        "1 red bell pepper, blended",
+        "2 tbsp tomato paste",
+        "2 cups chicken stock",
+        "Salt, pepper, spices"
+      ],
+      "steps": [
+        "Sauté onions and peppers in oil.",
+        "Add tomato paste and blended tomatoes, cook until thick.",
+        "Stir in rice and chicken stock.",
+        "Cover and cook until rice is done.",
+        "Serve hot with fried plantains or chicken."
+      ]
+    }
+  },
+  {
+    "quote": "He who learns, teaches.",
+    "country": "Nigeria",
+    "recipe": {
+      "name": "Egusi Soup",
+      "ingredients": [
+        "2 cups egusi seeds, ground",
+        "1/2 kg spinach or bitterleaf",
+        "1/2 kg beef or chicken",
+        "1 onion, chopped",
+        "2 tbsp palm oil",
+        "Salt, pepper, spices"
+      ],
+      "steps": [
+        "Cook meat until tender.",
+        "Heat palm oil and sauté onions.",
+        "Add ground egusi and stir for 5 minutes.",
+        "Add meat, water, and leafy greens.",
+        "Simmer until soup thickens and serve with pounded yam or fufu."
+      ]
+    }
+  },
+  {
+    "quote": "Rain does not fall on one roof alone.",
+    "country": "Kenya",
+    "recipe": {
+      "name": "Ugali with Sukuma Wiki",
+      "ingredients": [
+        "2 cups maize flour",
+        "4 cups water",
+        "1 bunch kale (sukuma wiki), chopped",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "Salt, oil"
+      ],
+      "steps": [
+        "Boil water and gradually add maize flour, stirring continuously until thick.",
+        "Sauté onions and tomatoes in oil, add kale and cook until tender.",
+        "Serve ugali on a plate with sukuma wiki on the side."
+      ]
+    }
+  },
+  {
+    "quote": "Even the best cooking pot will not produce food.",
+    "country": "South Africa",
+    "recipe": {
+      "name": "Bobotie",
+      "ingredients": [
+        "500g minced beef or lamb",
+        "1 onion, chopped",
+        "2 slices white bread",
+        "1 cup milk",
+        "2 tbsp curry powder",
+        "2 eggs",
+        "Raisins, salt, pepper"
+      ],
+      "steps": [
+        "Soak bread in milk.",
+        "Sauté onions, then add meat and curry powder.",
+        "Mix in soaked bread, raisins, and seasoning.",
+        "Place in oven dish and pour beaten eggs over meat.",
+        "Bake at 180°C for 30–40 minutes and serve with yellow rice."
+      ]
+    }
+  },
+  {
+    "quote": "A child who is not embraced by the village will burn it down to feel its warmth.",
+    "country": "Uganda",
+    "recipe": {
+      "name": "Matoke",
+      "ingredients": [
+        "6 green plantains",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1/2 cup cooking oil",
+        "Salt, pepper"
+      ],
+      "steps": [
+        "Peel and boil plantains until soft.",
+        "Sauté onions and tomatoes in oil.",
+        "Add boiled plantains and mash gently.",
+        "Simmer together for 5–10 minutes and serve hot."
+      ]
+    }
+  },
+  {
+    "quote": "Wisdom does not come overnight.",
+    "country": "Ethiopia",
+    "recipe": {
+      "name": "Doro Wat",
+      "ingredients": [
+        "1 kg chicken, cut into pieces",
+        "2 onions, finely chopped",
+        "3 tbsp berbere spice",
+        "2 tbsp butter",
+        "3 cloves garlic, minced",
+        "Salt, pepper"
+      ],
+      "steps": [
+        "Sauté onions in butter until soft.",
+        "Add garlic and berbere, cook for 2 minutes.",
+        "Add chicken and enough water to cover.",
+        "Simmer for 45 minutes until chicken is cooked and sauce thickens.",
+        "Serve with injera."
+      ]
+    }
+  },
+  {
+    "quote": "A man who uses force is afraid of reasoning.",
+    "country": "Senegal",
+    "recipe": {
+      "name": "Thieboudienne",
+      "ingredients": [
+        "2 cups broken rice",
+        "500g fish fillets",
+        "1 onion, chopped",
+        "2 tomatoes, blended",
+        "1 carrot, sliced",
+        "1/2 cabbage, chopped",
+        "Oil, salt, spices"
+      ],
+      "steps": [
+        "Fry fish until golden and set aside.",
+        "Sauté onion and tomatoes, add vegetables and cook 5–10 minutes.",
+        "Add rice and water, cover and cook until rice is done.",
+        "Serve rice with fish and vegetables on top."
+      ]
+    }
+  },
+  {
+    "quote": "A man who sees a hen lay an egg does not boast.",
+    "country": "Morocco",
+    "recipe": {
+      "name": "Tagine with Chicken and Preserved Lemons",
+      "ingredients": [
+        "1 kg chicken pieces",
+        "2 preserved lemons",
+        "1 onion, chopped",
+        "2 tbsp olive oil",
+        "2 tsp ginger, paprika, saffron",
+        "Salt, pepper"
+      ],
+      "steps": [
+        "Sauté onions in olive oil.",
+        "Add chicken and spices, brown on all sides.",
+        "Add preserved lemons and water, cover and simmer 45 minutes.",
+        "Serve hot with bread or couscous."
+      ]
+    }
+  }
+]
+
