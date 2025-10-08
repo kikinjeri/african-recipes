@@ -7,23 +7,35 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <div class="search-container">
-      <input type="text" id="searchInput" placeholder="Search by country..." />
-      <button onclick="searchQuote()">Search</button>
-    </div>
-
-    <div class="quote-box">
-      <div id="quote" class="quote-text"></div>
-      <div class="author-flag">
-        <span id="author"></span>
-        <img id="flag" src="" alt="Country flag" />
+  <div class="app-container">
+    <header class="app-header">
+      <h1>African Quotes & Recipes</h1>
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search by country..." />
+        <button id="searchBtn">Search</button>
       </div>
-      <div id="recipe" class="recipe"></div>
-    </div>
+    </header>
+
+    <main class="main-content">
+      <section class="quote-card">
+        <div class="country-flag">
+          <img id="flag" src="" alt="Country flag" />
+        </div>
+        <h2 id="author" class="country-name"></h2>
+        <p id="quote" class="quote-text"></p>
+      </section>
+
+      <section class="recipe-card">
+        <div id="recipe" class="recipe"></div>
+      </section>
+
+      <div class="navigation">
+        <button id="prevBtn">❮ Previous</button>
+        <button id="nextBtn">Next ❯</button>
+      </div>
+    </main>
   </div>
 
   <script src="script.js"></script>
 </body>
 </html>
-
