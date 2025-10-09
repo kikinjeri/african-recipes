@@ -1,49 +1,35 @@
-# african-recipes
-displayes a quote and recipe from selected african country. uses html, css, js and json
+# African Quotes & Recipes App 🌍🍲
 
-Inspirational Quotes: Browse quotes from multiple African countries.
+A culturally rich web app that celebrates African wisdom and cuisine. Each country features a **unique traditional proverb** paired with a **national dish** — offering users a taste of Africa's diversity and heritage.
 
-Traditional Recipes: Ingredients and step-by-step cooking instructions displayed in two columns.
+---
 
-Responsive Design: Optimized for desktop, tablet, and mobile devices.
+## 🖼️ Screenshot Placeholder
+![App Screenshot](assets/screenshot.png)
 
-Interactive Navigation: Search by country and navigate using previous/next buttons.
 
-Modern UI: Large country flags and names, centered dish title, sleek card layout.
+---
 
-Animations: Smooth slide-in effects when switching between quotes.
+## 🌟 Features
+- 30 African countries with curated proverbs and dishes 🇰🇪🇳🇬🇿🇦  
+- Culturally authentic and responsive design  
+- Randomized country generator  
+- Optimized for performance and accessibility  
+- Built for learning, sharing, and celebrating African culture
 
-Installation
+---
 
-Clone the repository:
+## 🛠️ Technologies Used
+- **React.js** – Frontend framework  
+- **Tailwind CSS** – Modern, responsive styling  
+- **Vite** – Fast development environment  
+- **GitHub Pages** – Deployment
 
-git clone https://github.com/your-username/african-quotes-recipes.git
+---
 
-Navigate to the project folder:
+## 🚀 Getting Started
 
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/african-quotes-recipes.git
 cd african-quotes-recipes
-
-Open index.html in your browser (no server required):
-
-open index.html
-Usage
-
-Search by Country: Type the country name in the search box and press Enter or click Search.
-
-Navigate Quotes: Click Previous/Next to browse through the quotes.
-
-View Recipes: See ingredients and steps in a clean two-column layout under each quote.
-
-Mobile Friendly: Fully responsive layout for small screens.
-
-Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-JSON for storing quotes and recipes
-
-FlagCDN for country flags
